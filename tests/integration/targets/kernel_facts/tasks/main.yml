@@ -9,4 +9,3 @@
       - result is not changed
       - result.ansible_facts is defined
       - result.ansible_facts.kernel is defined
-
