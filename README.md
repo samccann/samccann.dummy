@@ -77,7 +77,7 @@ Every voice is important. If you have something on your mind, create an issue or
 ## Tested with Ansible
 
 <!-- List the versions of Ansible the collection has been tested with. Must match what is in galaxy.yml. -->
-Tested with `ansible-core 2.15`, `ansible-core 2.16`, `ansible-core 2.17`, and `devel`.
+Tested with `ansible-core 2.15`, `ansible-core 2.16`, `ansible-core 2.17`, `ansible-core 2.8`, and `devel`.
 
 ## External requirements
 
